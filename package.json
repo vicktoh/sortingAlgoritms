@@ -1,0 +1,14 @@
+{
+  "name": "newalgo",
+  "version": "1.0.0",
+  "description": "Algo and tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^25.2.6"
+  }
+}
